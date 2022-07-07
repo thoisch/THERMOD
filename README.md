@@ -4,15 +4,15 @@ THERMOD consists of three programs (THERMOD8, THERMODSUBDUCT, and PREPARRAYS) an
 THERMOD runs under operating systems Windows XP to Windows 11, and may run under future versions. THERMOD8 and THERMODSUBDUCT both sequester 1 GB of memory, and PREPARRAYS sequesters 200 MB. 
 ### Installation
 Run the installer to install the programs and user’s manual. 
-### Code description
+### Code Description
 The programs are written in APL2000 v. 3.6 and are provided as locked runtime applications. Sources codes and active workspaces can be provided upon request. 
 ### Quick Start: Tutorial and Model Examples
 The best way to get started is to build and run the examples described in the user’s manual in section II.11 *THERMOD8 tutorial*, and section III.2 *Example: Alaskan flat-slab subduction model* (from Petersen et al., 2021). The user’s manual provides step-by-step instructions.  Completed model files generated as described in these sections are available in the repository.  The models described in section II.11 were created in THERMOD8 and may be rerun or modified to create new models.  The model described in section III.2 was created in THERMODSUBDUCT and may also be rerun or modified to create new models.  Note that the initial arrays for subduction models are created in PREPARRAYS.  Arrays exported from PREPARRAYS are loaded into THERMODSUBDUCT in preparation for running a model. If modifying a subduction model involves changes to the initial physical constant arrays, then it will be necessary to create new arrays using the PREPARRAYS program. This involves uploading and modifying the PREPARRAYS file for the model, then exporting the new initial arrays and loading them into THERMODSUBDUCT. See user’s manual for further details. 
 
 Three additional subduction models, not described in the user's manual, are provided in the repository. These are models of Laramide subduction along the western margin of North America. Two are high-resolution models (1 km node spacing) of the near-trench portion of the system and are designed to test the effect of frictional heating along the fault; one  incorporates a high value (0.1) for the frictional coefficient and the other is identical except for incorporating a frictional coefficient of zero.  The third model (2 km node spacing) extends 1050 km from the trench and simulates conditions that existed from the trench to the far edge of the Colorado Plateau assuming a frictional coefficient of 0.1. Completed model files and associated PREPARRAYS files are provided for these examples. 
-### License agreement
+### License Agreement
 The licensing agreement is displayed when running the installer.  Users are asked to agree to the terms of the license as a condition for proceeding with the installation.
-### Developer and contact
+### Developer and Contact
 THERMOD was created by Thomas Hoisch, Professor, School of Earth & Sustainability, Northern Arizona University. 
 ### Acknowledgements
 The development of THERMODSUBDUCT and PREPARRAYS were funded by NSF grant EAR-1929520. Testing of the program was carried out in conjunction with research conducted by Sarah E. Petersen on Alaskan flat-slab subduction (Petersen et al., 2021) and Samantha Winston-Seitz on Laramide flat-slab subduction.
