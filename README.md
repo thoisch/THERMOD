@@ -47,13 +47,13 @@ Petersen, S. E., Hoisch, T. D., & Porter, R. C. (2021). Assessing the role of wa
               - File: Prepararrys file for hi res 8 degrees near trench.sf. *PREPARRAYS file for high resolution (node spacing of 1 km) near-trench models.*
               - Folder: Model with frictional coefficient of 0.1
                   - File: Laramide near trench fric .1 1 km.sf. *THERMODSUBDUCT model file. Frictional coefficient of 0.1 is assumed.*
-                  - File: Laramide near trench fric .1 1 km 4  m.y. T array with fault.jpg. "Exported temperature array at 4 m.y. contoured with Surfer 7 using Kriging regression*
+                  - File: Laramide near trench fric .1 1 km 4  m.y. T array with fault.jpg. *Exported temperature array at 4 m.y. contoured with Surfer 7 using Kriging regression*
               - Folder: Model with frictional coefficient of zero
                   - File: Laramide near trench nofric 1 km.sf. *THERMODSUBDUCT model file. Frictional coefficient of zero is assumed.*
-                  - File: Laramide near trench nofric 1 km 4 m.y. T array with fault.jpg. "Exported temperature array at 4 m.y. contoured with Surfer 7 using Kriging regression*    
+                  - File: Laramide near trench nofric 1 km 4 m.y. T array with fault.jpg. *Exported temperature array at 4 m.y. contoured with Surfer 7 using Kriging regression*    
           - Folder: Simulation that extends 1050 km from trench. *1d geotherms used to create the initial temperature array for this model are the same as for the Alaskan subduction model*   
                - File: Preparrays 2km Laramide model.sf.* PREPARRAYS file for model that extends 1050 km from the trench, node spacing of 2 km.*
                - Folder:  Model file and graphed exported temperature array 
                    - File: Laramide fric .1.sf. *THERMODSUBDUCT model file.* 
-                   - File: Laramide fric .1  40 my T array with fault.jpg.  "Exported temperature array at 40 m.y. contoured with Surfer 7 using Kriging regression*    
+                   - File: Laramide fric .1  40 my T array with fault.jpg.  *Exported temperature array at 40 m.y. contoured with Surfer 7 using Kriging regression*    
                    
