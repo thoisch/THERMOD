@@ -52,7 +52,7 @@ Petersen, S. E., Hoisch, T. D., & Porter, R. C. (2021). Assessing the role of wa
                   - File: Laramide near trench nofric 1 km.sf. *THERMODSUBDUCT model file. Frictional coefficient of zero is assumed.*
                   - File: Laramide near trench nofric 1 km 4 m.y. T array with fault.jpg. *Exported temperature array at 4 m.y. contoured with Surfer 7 using Kriging regression*    
           - Folder: Simulation that extends 1050 km from trench. *1d geotherms used to create the initial temperature array for this model are the same as for the Alaskan subduction model*   
-               - File: Preparrays 2km Laramide model.sf.* PREPARRAYS file for model that extends 1050 km from the trench, node spacing of 2 km.*
+               - File: Preparrays 2km Laramide model.sf. *PREPARRAYS file for model that extends 1050 km from the trench, node spacing of 2 km.*
                - Folder:  Model file and graphed exported temperature array 
                    - File: Laramide fric .1.sf. *THERMODSUBDUCT model file.* 
                    - File: Laramide fric .1  40 my T array with fault.jpg.  *Exported temperature array at 40 m.y. contoured with Surfer 7 using Kriging regression*    
