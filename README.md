@@ -33,7 +33,7 @@ Petersen, S. E., Hoisch, T. D., & Porter, R. C. (2021). Assessing the role of wa
           - File: Manual4 ihp array 10my with fault.jpg. *Exported internal heat production array at 10 m.y. contoured with Surfer 7 using power law regression*
           - File: Manual4 T array 10my with fault.jpg. *Exported temperature array at 10 m.y. contoured with Surfer 7 using Kriging regression*  
   - Folder: Subduction Models
-      - Folder: Alaskan flat-slab subduction. *Model described in section III.2 of the user's manual (from Petersen et al. (2021). See user’s manual for details on the calculation of the geotherms used to create the initial temperature array.  Node spacing for this model is 2 km.*
+      - Folder: Alaskan flat-slab subduction. *This model was presented in Petersen et al. (2021) and is also described in section III.2 of the user's manual. See user’s manual for details on the calculation of the geotherms used to create the initial temperature array.  Node spacing for this model is 2 km.*
           - File: Cont 1d2km 35 km boundary.sf. *THERMOD8 model file. Continental geotherm model calculated to 150 km depth.*
           - File: Oceanic 1d2km 80 km depth.sf. *THERMOD8 model file. Oceanic geotherm model calculated to 80 km depth.*
           - File: Preparrays SE Alaska 2 km.sf. *PREPARRAYS file for Alaskan subduction model.*
