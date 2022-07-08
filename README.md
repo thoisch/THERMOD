@@ -23,13 +23,14 @@ The development of THERMOD was funded by National Science Foundation grants EAR-
 Hoisch, T. D. (2005). Thermod7: A general two-dimensional numerical modeling program for heat conduction and advection, with special application to faults. Computers & Geosciences, 31(6), 698–703. https://doi.org/10.1016/j.cageo.2005.01.005
 
 Petersen, S. E., Hoisch, T. D., & Porter, R. C. (2021). Assessing the role of water in Alaskan flat-slab subduction. Geochemistry, Geophysics, Geosystems, 22, e2021GC009734. https://doi.org/10.1029/2021GC009734
-### Explanation of Repository Contents
+### Explanation of Repository Contents on Zenodo.org [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6808420.svg)](https://doi.org/10.5281/zenodo.6808420)
 - Folder: THERMOD Installer. *Contains installer file*
 - Folder: THERMOD License Agreement. *Contains pdf of license agreement*
+- Folder: SOURCE CODE. *Contains docx files with source code. Viewing the files requires the font to be set to APLPLUS.  Installing THERMOD will add the APLPLUS font to your font library.*
 - Folder: Model Examples. *Contains uploadable examples of models*
   - Folder: THERMOD8 models described in section II.11 of the user's manual
       - File: MANUAL1.sf. *THERMOD8 model file*
-      - File: MANAUL2.sf. *THERMOD8 model file*
+      - File: MANUAL2.sf. *THERMOD8 model file*
       - File: MANUAL3.sf. *THERMOD8 model file*
       - Folder: MANUAL4 model file and two example outputs
           - File: MANUAL4.sf. *THERMOD8 model file*
