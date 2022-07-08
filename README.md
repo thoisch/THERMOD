@@ -1,7 +1,7 @@
 # THERMOD
 THERMOD is software that performs numerical simulations of heat conduction and advection in 1d and 2d systems. It consists of three programs (THERMOD8, THERMODSUBDUCT, and PREPARRAYS) and a user’s manual.  THERMOD8 performs simulations of 1d and 2d systems; 2d systems may involve faults of specified geometry and displacement velocity. THERMODSUBDUCTION performs 2d numerical simulations of subduction zones and includes features not included in THERMOD8 (mantle corner flow, corner flow truncation, and frictional heating). The programs are operated through graphical user interfaces to set up models, run models, and export the results. Previously run model setups may be easily modified. Each program is discussed separately in the user’s manual.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6808420.svg)](https://doi.org/10.5281/zenodo.6812247)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812247.svg)](https://doi.org/10.5281/zenodo.6812247)
 
 ### System Requirements
 THERMOD runs under operating systems Windows XP to Windows 11, and may run under future versions. THERMOD8 and THERMODSUBDUCT both sequester 1 GB of memory, and PREPARRAYS sequesters 200 MB. 
@@ -23,7 +23,7 @@ The development of THERMOD was funded by National Science Foundation grants EAR-
 Hoisch, T. D. (2005). Thermod7: A general two-dimensional numerical modeling program for heat conduction and advection, with special application to faults. Computers & Geosciences, 31(6), 698–703. https://doi.org/10.1016/j.cageo.2005.01.005
 
 Petersen, S. E., Hoisch, T. D., & Porter, R. C. (2021). Assessing the role of water in Alaskan flat-slab subduction. Geochemistry, Geophysics, Geosystems, 22, e2021GC009734. https://doi.org/10.1029/2021GC009734
-### Explanation of Repository Contents on Zenodo.org [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6808420.svg)](https://doi.org/10.5281/zenodo.6812247)
+### Explanation of Repository Contents on Zenodo.org [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812247.svg)](https://doi.org/10.5281/zenodo.6812247)
 - Folder: THERMOD Installer. *Contains installer file*
 - Folder: THERMOD License Agreement. *Contains pdf of license agreement*
 - Folder: SOURCE CODE. *Contains docx files with source code. Viewing the files requires the font to be set to APLPLUS.  Installing THERMOD will add the APLPLUS font to your font library.*
