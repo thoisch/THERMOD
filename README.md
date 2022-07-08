@@ -8,7 +8,7 @@ THERMOD runs under operating systems Windows XP to Windows 11, and may run under
 ### Installation
 Run the installer to install the programs and user’s manual. 
 ### Code Description
-The programs are written in APL2000 v. 3.6 and are provided as locked runtime applications. Sources codes and active workspaces can be provided upon request. 
+The programs are written in APL2000 v. 3.6 and are provided as locked runtime applications. Active workspaces can be provided upon request. 
 ### Quick Start: Tutorial and Model Examples
 The best way to get started is to build and run the examples described in the user’s manual in section II.11 *THERMOD8 tutorial*, then read sections II.3 through II.10. The user’s manual provides step-by-step instructions. To run models of subduction you must also read sections III and IV. An example of a subduction model is provided in section III.2 *Example: Alaskan flat-slab subduction model* (from Petersen et al., 2021). Completed model files generated as described in these sections are available in the repository.  The models described in section II.11 were created in THERMOD8 and may be rerun or modified to create new models.  The model described in section III.2 was created in THERMODSUBDUCT and may also be rerun or modified to create new models.  Note that the initial arrays for subduction models are created in PREPARRAYS.  Arrays exported from PREPARRAYS are loaded into THERMODSUBDUCT in preparation for running a model. If modifying a subduction model involves changes to the initial physical constant arrays, then it will be necessary to create new arrays using the PREPARRAYS program to be uploaded into THERMODSUBDUCT. See user’s manual for further details. 
 
