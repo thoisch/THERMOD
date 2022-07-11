@@ -18,7 +18,7 @@ The licensing agreement is displayed when running the installer.  Users are aske
 ### Developer and Contact
 THERMOD was created by Thomas Hoisch, Professor, School of Earth & Sustainability, Northern Arizona University. 
 ### Acknowledgements
-The development of THERMOD was funded by National Science Foundation grants EAR-9317378 and EAR-9805076 (THERMOD8) and EAR-1929520 (THERMODSUBDUCT AND PREPARRAYS). Testing of THERMODSUBDUCT was carried out in conjunction with research conducted by Sarah E. Petersen on Alaskan flat-slab subduction (Petersen et al., 2021) and Samantha Winston-Seitz on Laramide flat-slab subduction.
+The development of THERMOD was funded by National Science Foundation grants EAR-9317378 and EAR-9805076 (THERMOD8) and EAR-1929520 (THERMODSUBDUCT AND PREPARRAYS). Testing of THERMODSUBDUCT was carried out in conjunction with research conducted by Sarah E. Petersen on Alaskan flat-slab subduction (Petersen et al., 2021) and Samantha Winstin-Seitz on Laramide flat-slab subduction.
 ### References
 Hoisch, T. D. (2005). Thermod7: A general two-dimensional numerical modeling program for heat conduction and advection, with special application to faults. Computers & Geosciences, 31(6), 698–703. https://doi.org/10.1016/j.cageo.2005.01.005
 
